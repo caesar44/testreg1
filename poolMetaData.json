@@ -2,5 +2,6 @@
 "name": "ADAMX Stake Pool",
 "description": "Navel of the moon",
 "ticker": "ADAMX",
-"homepage": "https://www.staketothemoon.com/"
+"homepage": "https://www.staketothemoon.com/",
+"extended": "https://data.pooltool.io/md/b021866e-6c7c-4f03-9c8e-8e8fb6db170a"
 }
